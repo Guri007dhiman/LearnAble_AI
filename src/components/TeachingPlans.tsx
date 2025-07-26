@@ -332,24 +332,7 @@ ${lessonPlan.learningModes.map(mode => `• ${mode}`).join('\n')}
                   )}
                 </Button>
                 
-                <Button 
-                  onClick={handleSearchImages} 
-                  disabled={isLoadingImages}
-                  variant="outline"
-                  className="w-full"
-                >
-                  {isLoadingImages ? (
-                    <>
-                      <RefreshCw className="w-4 h-4 mr-2 animate-spin" />
-                      Finding Images...
-                    </>
-                  ) : (
-                    <>
-                      <Image className="w-4 h-4 mr-2" />
-                      Find Educational Images
-                    </>
-                  )}
-                </Button>
+                
               </div>
             </CardContent>
           </Card>
