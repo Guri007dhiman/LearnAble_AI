@@ -7,9 +7,8 @@
 - ✏️ **Text Simplification** using Gemini for easier comprehension
 - 🔊 **Emotion-rich Text-to-Speech** via ElevenLabs
 - 📸 **Visual Aid Generation** from Pexels API
-- 📄 **PDF/Text Upload** and extraction using `@opendocsg/pdf2md`
+- 📄 **PDF/Text Upload** and extraction using PDF2MD
 - 📚 **Personalized Lesson Plans & Interactive Quizzes** based on user level
-- 📈 **Smart Dashboard** for parents/teachers to track progress
 
 ## 💡 Innovation & Uniqueness
 
@@ -20,12 +19,12 @@
 
 ## 👨‍💻 Tech Stack
 
-- **Frontend**: React, Tailwind CSS, Vite, TypeScript, ShadCN UI
+- **Frontend and Backend**: React, Tailwind CSS, Vite, TypeScript, ShadCN UI
 - **AI Services**:
   - Gemini API – Text simplification
   - ElevenLabs – Text-to-Speech
   - Pexels API – Visuals for conceptual aid
-  - `@opendocsg/pdf2md` – PDF text extraction
+  - PDF2MD – PDF text extraction
 
 ## 🧠 How It Works
 
