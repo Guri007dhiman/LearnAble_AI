@@ -2,6 +2,10 @@
 
 **LearnAble AI** is an AI-powered learning assistant designed to support individuals with dyslexia by simplifying content, providing audio narration with emotional tone, generating visual aids, and creating personalized lesson plans. It enables an inclusive, multisensory learning experience through reading, listening, visualizing, and interacting — all in one unified platform.
 
+## 🧭 Why It Matters
+
+Over 700 million people globally face reading challenges due to dyslexia. LearnAble AI bridges the cognitive accessibility gap in education through AI. It allows learners to read, listen, visualize, and interact with study material — boosting confidence, inclusion, and academic success.
+
 ## 🚀 Features
 
 - ✏️ **Text Simplification** using Gemini for easier comprehension
@@ -46,3 +50,16 @@ npm install
 
 # 2. Run development server
 npm run dev
+```
+## ⚡Created by Team THUNDERBOLTS 
+
+We are a passionate team of AI engineers, developers, and educators committed to building inclusive learning solutions.
+
+**Members:**
+  - Gurinder Singh
+  - Bhavya Sharma
+  - Dipesh Jaluria
+  - Mansimrat
+
+
+
