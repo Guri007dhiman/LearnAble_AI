@@ -2,48 +2,6 @@
 
 **LearnAble AI** is an AI-powered learning assistant designed to support individuals with dyslexia by simplifying content, providing audio narration with emotional tone, generating visual aids, and creating personalized lesson plans. It enables an inclusive, multisensory learning experience through reading, listening, visualizing, and interacting — all in one unified platform.
 
-## 🧠 How It Works
-
-Below is the complete user journey inside LearnAble AI:
-
-![LearnAble AI Flowchart](./Screenshot%202025-07-17%20103606.png)
-
-### Flow Description:
-
-1. **User Uploads Input**
-   - Accepts Text, PDF, or Docx files
-
-2. **AI Preprocessing**
-   - OCR for PDFs
-   - Language detection
-   - Chunking for better processing
-
-3. **Content Transformation**
-   - Simplifies text using Gemini (LLM)
-   - Generates glossaries
-   - Summarizes & rephrases
-
-4. **Dyslexia-Friendly Formatting**
-   - Uses OpenDyslexic font
-   - Custom spacing and color adjustments
-   - Highlights tricky words
-
-5. **Audio Output (TTS)**
-   - Emotion/tone control (calm, fun)
-   - Word-by-word sync via ElevenLabs
-
-6. **Teaching Plan & Quiz Creation**
-   - Breaks content into sessions
-   - Generates interactive quizzes
-   - Suggests suitable teaching methods
-
-7. **Adaptive Feedback Loop**
-   - Tracks reading time, quiz scores, and attention
-   - Refines difficulty and teaching methods
-
-8. **Additional: Visual Aid**
-   - Uses Pexels for diagrams, mind maps, scenes
-
 ## 🚀 Features
 
 - ✏️ **Text Simplification** using Gemini for easier comprehension
@@ -67,8 +25,12 @@ Below is the complete user journey inside LearnAble AI:
   - ElevenLabs – Text-to-Speech
   - Pexels API – Visuals for conceptual aid
   - PDF2MD – PDF text extraction
-
+    
 ## 🧠 How It Works
+
+Below is the complete user journey inside LearnAble AI:
+
+![LearnAble AI Flowchart](./src/assets/flowchart.png)
 
 1. Upload educational content (PDF/text).
 2. The system simplifies the content for dyslexic learners using Gemini.
