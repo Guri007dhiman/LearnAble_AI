@@ -60,6 +60,8 @@ We are a passionate team of AI engineers, developers, and educators committed to
   - Bhavya Sharma
   - Dipesh Jaluria
   - Mansimrat
+  - Arvind Kumar
+
 
 
 
